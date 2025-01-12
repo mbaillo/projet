@@ -22,7 +22,7 @@ Ce projet consiste à créer un moteur de jeu 2D avec Java et libGDX. Il intègr
 
 1. Clonez le dépôt :
    ```bash
-   git clone https://github.com/votre-utilisateur/votre-projet.git
+   git clone https://github.com/mbaillo/projet.git
    ```
 
 2. Importez dans votre IDE (IntelliJ, Eclipse).

@@ -7,7 +7,6 @@ Ce projet consiste à créer un moteur de jeu 2D avec Java et libGDX. Il intègr
 ## Fonctionnalités
 
 - Moteur de jeu 2D de base (affichage, entrée, collisions, etc.)
-- Niveaux dynamiques via Tiled
 - Architecture modulaire pour l'extension du jeu
 - Gestion du joueur et des ennemis
 

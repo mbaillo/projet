@@ -1,0 +1,14 @@
+Entite/menu/continue.png
+Entite/menu/playHover.png
+Entite/menu/quit.png
+Entite/monstre.png
+Entite/player.png
+Entite/player.tsx
+libgdx.png
+maps/carte.tmx
+maps/default_tiles_x.png
+maps/default_tiles_x.tsx
+maps/tiles.png
+maps/tiles.tsx
+music/lose.ogg
+music/song.mp3
